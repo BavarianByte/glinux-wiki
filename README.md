@@ -12,5 +12,5 @@ This repository inherits the Wiki and also functions as the bug reporter using t
 
 | Release       | Date     | Kernel      | Based on:            |
 |---------------|----------|-------------|----------------------|
-| GLinux 0.21.0 | Mar 2021 | 5.11-xanmod | Debian 10.8 Unstable |
+| GLinux 0.21.0 | Dec 2021 | 5.13-xanmod | Pop!_OS 20.04        |
 
